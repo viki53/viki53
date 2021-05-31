@@ -6,4 +6,3 @@
 - I’m looking to collaborate on helpful social/environmental projects. Hit me up! 👋
 - You can reach me at _contact_@_corentin-hatte.eu_ or _https://twitter.com/viki53_
 - Pronouns: he/him
-- 
