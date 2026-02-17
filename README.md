@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-<img width="6336" height="1584" alt="DevProof banner" src="https://github.com/user-attachments/assets/117db562-8b6a-40d3-af04-f7bd3dc27dfa" />
+<img width="1894" height="454" alt="DevProof banner" src="https://github.com/user-attachments/assets/a514671d-ff11-4e78-905e-c83501bd6a14" />
 
 - I am a freelance Web developer and quality & delivery consultant from France
 - I’m also ~~playing~~ building some small tools to make browsing the web easier, such as a notification browser extension for [@zestedesavoir](https://github.com/zestedesavoir), a few custom user styles, and some UX/accessibility audits
